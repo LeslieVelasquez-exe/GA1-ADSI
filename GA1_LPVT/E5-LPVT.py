@@ -11,3 +11,5 @@ nota4 = 6.7
 promedio = (nota1+nota2+nota3+nota4)/4
 
 print("Promedio final: ", promedio)
+print("Leslie Pamela Velásquez Tzarax")
+print("Curso: Análisis de Sistemas")

@@ -9,3 +9,4 @@ edad = 16
 mayor_de_edad = False #Asumimos que no
 
 print("¿Es mayor de edad?: ", mayor_de_edad)
+print("Leslie Pamela Velásquez Tzarax")
